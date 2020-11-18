@@ -12,5 +12,4 @@ Here are two personal projects that I am currently working on:
 Here are a couple of my favorite school projects:
 + [Tiger Game](https://github.com/i-laird/Tiger_Game) This was the group project for Intro to Algorithms at Baylor University. The game has two rows of men whose goal is to trap the tiger (tiger cannot move). The men can only move along one edge at a time, but the tiger can jump over a man to kill him. This project implements the AI for both men and the tiger. This men AI was the only men AI in the class to capture an enemy team's tiger.
 + [Sentiment Analysis](https://github.com/i-laird/Sentiment_Analyzer) This was the group project for my Natural Language Processing class at Baylor University. This project uses machine learning as well as natural language processing to determine how a collection of reviews of a product are rating this product. The way it does this is by identifying the topics that are common across the reviews and then determining if a review is positive or negative regarding this topic.
-+ 
 
