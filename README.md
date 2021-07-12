@@ -1,7 +1,7 @@
 # About me
-I recently graduated from Baylor University in Waco, Texas with a Bachelor of Science in Computer Science. I am originally from Bozeman, Montana, which is where I am currently located as I work from home at Capital One. Once I return to the office I will be located in Plano, Texas. In January I begin at Georgia Tech in their OMSCS program.
+I graduated from Baylor University in May of 2020 with a Bachelor of Science in Computer Science. I am originally from Bozeman, Montana, which is where I am currently located as I work from home at Capital One. Once I return to the office I will be located in Plano, Texas. I am currently enrolled in the OMSCS program at Georgia Tech.
 
-When I am not developing software, I enjoy rock climbing, reading, and playing Age of Empires 2.
+When I am not developing software, I enjoy hiking, reading, and playing with my lab named Moose.
 
 Here you can find school projects I created during my time at Baylor as well as a few personal projects of mine. These personal projects are in various states of development so I make no guarantees about their use :)
 
