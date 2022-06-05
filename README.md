@@ -1,5 +1,5 @@
 # About me
-I graduated from Baylor University in May of 2020 with a Bachelor of Science in Computer Science. I live in Bozeman, MT where I work remotely.
+I am currently working remotely from Bozeman, MT.
 
 I am a full stack engineer with professional cloud engineering experience. 
 
